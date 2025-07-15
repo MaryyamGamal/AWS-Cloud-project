@@ -62,7 +62,7 @@ aws-webapp-deployment/
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/yourusername/aws-webapp-deployment.git
+   git clone https://github.com/MaryyamGamal/AWS-Cloud-project.git
    cd aws-webapp-deployment
    ```
 
